@@ -1,0 +1,13 @@
+{
+  "itemGroup.lollymod": "Example Mod Tab",
+  "block.lollymod.example_block": "Example Block",
+  "item.lollymod.example_item": "Example Item",
+
+  "lollymod.configuration.title": "Lolly Mod Configs",
+  "lollymod.configuration.section.lollymod.common.toml": "Lolly Mod Configs",
+  "lollymod.configuration.section.lollymod.common.toml.title": "Lolly Mod Configs",
+  "lollymod.configuration.items": "Item List",
+  "lollymod.configuration.logDirtBlock": "Log Dirt Block",
+  "lollymod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "lollymod.configuration.magicNumber": "Magic Number"
+}
