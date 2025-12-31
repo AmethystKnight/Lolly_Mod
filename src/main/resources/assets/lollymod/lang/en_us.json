@@ -9,5 +9,7 @@
   "lollymod.configuration.items": "Item List",
   "lollymod.configuration.logDirtBlock": "Log Dirt Block",
   "lollymod.configuration.magicNumberIntroduction": "Magic Number Text",
-  "lollymod.configuration.magicNumber": "Magic Number"
+  "lollymod.configuration.magicNumber": "Magic Number",
+
+  "item.lollymod.lolly_item": "Lolly"
 }

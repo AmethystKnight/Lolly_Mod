@@ -1,4 +1,4 @@
-package com.invictus.examplemod;
+package com.invictus.lollymod;
 
 import net.minecraft.client.Minecraft;
 import net.neoforged.api.distmarker.Dist;
