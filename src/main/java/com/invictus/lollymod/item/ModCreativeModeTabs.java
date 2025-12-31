@@ -1,6 +1,7 @@
 package com.invictus.lollymod.item;
 
 import com.invictus.lollymod.LollyMod;
+import com.invictus.lollymod.block.ModBlocks;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
@@ -17,6 +18,7 @@ public class ModCreativeModeTabs {
             .title(Component.translatable("creativetab.lollymod.lollies"))
             .displayItems((itemDisplayParameters, output) -> {
                 output.accept(ModItems.LOLLY_ITEM);
+                output.accept(ModBlocks.LOLLY_BLOCK);
             })
             .build());
 

@@ -11,5 +11,6 @@
   "lollymod.configuration.magicNumberIntroduction": "Magic Number Text",
   "lollymod.configuration.magicNumber": "Magic Number",
 
-  "item.lollymod.lolly_item": "Lolly"
+  "item.lollymod.lolly_item": "Lolly",
+  "block.lollymod.lolly_block": "Lolly Block"
 }
