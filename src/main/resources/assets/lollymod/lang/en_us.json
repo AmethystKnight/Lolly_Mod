@@ -12,5 +12,6 @@
   "lollymod.configuration.magicNumber": "Magic Number",
 
   "item.lollymod.lolly_item": "Lolly",
-  "block.lollymod.lolly_block": "Lolly Block"
+  "block.lollymod.lolly_block": "Lolly Block",
+  "item.lollymod.lolly_pop": "Candy Cane"
 }

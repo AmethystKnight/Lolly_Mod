@@ -19,6 +19,7 @@ public class ModCreativeModeTabs {
             .displayItems((itemDisplayParameters, output) -> {
                 output.accept(ModItems.LOLLY_ITEM);
                 output.accept(ModBlocks.LOLLY_BLOCK);
+                output.accept(ModItems.LOLLY_POP);
             })
             .build());
 
