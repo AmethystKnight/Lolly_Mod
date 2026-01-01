@@ -1,8 +1,8 @@
 Info
 ==========
-This is a mod for Minecraft 1.21.1, requiring NeoForge. All graphics are temporary images taken from the internet.
+This is a mod for Minecraft Java 1.21.1, requiring NeoForge. All graphics are temporary images taken from the internet.
 
-To play the mod click [lollymod-1.0.0.jar](https://raw.githubusercontent.com/AmethystKnight/Lolly_Mod//master/lollymod-1.0.0.jar) to download the jar file, then put it in your Minecraft mod folder.
+To play the mod click [lollymod-1.0.1.jar](https://raw.githubusercontent.com/AmethystKnight/Lolly_Mod//master/lollymod-1.0.1.jar) to download the jar file, then put it in your Minecraft mod folder.
 Alternatively you can donwload/clone the repo and compile the mod yourself with `gradlew build` after which you can find the jar in build/libs.
 
 Features

@@ -11,8 +11,8 @@
   },
   "pattern": [
     "  L",
-    " S ",
-    "S  "
+    " L ",
+    "L  "
   ],
   "result": {
     "count": 1,

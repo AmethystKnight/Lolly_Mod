@@ -13,5 +13,6 @@
 
   "item.lollymod.lolly_item": "Lolly",
   "block.lollymod.lolly_block": "Lolly Block",
-  "item.lollymod.lolly_pop": "Candy Cane"
+  "item.lollymod.lolly_pop": "Candy Cane",
+  "creativetab.lollymod.lollies": "Lolly Tab"
 }
