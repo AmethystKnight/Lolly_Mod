@@ -7,7 +7,7 @@ Alternatively you can donwload/clone the repo and compile the mod yourself with 
 
 Features
 ==========
-* A lolly item created by smelting sugar in a furnace or smoker, and eaten to receive brief effects
+* A lolly item that can be created by smelting sugar in a furnace or smoker, and eaten to receive brief effects
 * A lolly block crafted using 9 lollies in a crafting table (can also be uncrafted)
-* A Candy Cane crafted with 3 lolly items placed diagnally (bottom left to top right including the centre) in a crafting table, eating the  Candy Cane gives jump boost and speed for 20 seconds
+* A Candy Cane crafted with 3 lolly items placed diagnally (bottom left to top right including the centre) in a crafting table, eating the Candy Cane gives jump boost and speed for 20 seconds
 * All items can be accessed through the lolly tab in the creative menu
